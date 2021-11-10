@@ -180,7 +180,8 @@
   
 
 
-### Usage Download - ⬇︎ - View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
+### Usage Download - ⬇︎ - 
+- View Boot screen and Downloads Themes of your choice, for OpenCore 0.7.0 and higher
 
 - View Boot screen [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMacBadge.png) Download ➤ [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMacBadge.zip)
 - View Boot screen [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMac.png) Download ➤ [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMac.zip)
