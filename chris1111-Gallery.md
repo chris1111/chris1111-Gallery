@@ -8,17 +8,6 @@
 - Follow ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
 
-### Setup PickerVariant config.plist (OnLight themes as exemple)  ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png) 
-- Misc -> Boot -> PickerVariant: chris1111\OnLight
-- Misc -> Boot -> PickerAtributes: 17
-
-
-### Setup Flavours theme in config.plist (Flavours-Collor themes as exemple
-- Misc -> Boot -> PickerVariant: chris1111\Flavours-Collor
-- Misc -> Boot -> PickerAtributes: 145
-
-
-
 ## Some examples of themes ⬇︎
 
 - FlatMonterey
@@ -314,3 +303,12 @@
 - Background ➤ Collections [1680x1050](Background1680x1050/)
 - Background ➤ Collections [2560x1600](Background2560x1600/)
 
+
+### Setup PickerVariant config.plist (OnLight themes as exemple)  ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png) 
+- Misc -> Boot -> PickerVariant: chris1111\OnLight
+- Misc -> Boot -> PickerAtributes: 17
+
+
+### Setup Flavours theme in config.plist (Flavours-Collor themes as exemple
+- Misc -> Boot -> PickerVariant: chris1111\Flavours-Collor
+- Misc -> Boot -> PickerAtributes: 145
