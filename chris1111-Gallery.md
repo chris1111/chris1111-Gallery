@@ -2,31 +2,24 @@
 - Themes for OpenCore 0.7.0 and Higher
 
 ### How to create are own Theme
+- Follow ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
-Follow ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
+### Tool to resize Background images for use with OpenCanopyGenerator 
+- Follow ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
-### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
-
-
-
-## First Use ➤  Change Resources to EFI/OC
 
 ### Setup PickerVariant config.plist (OnLight themes as exemple)  ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png) 
-
 - Misc -> Boot -> PickerVariant: chris1111\OnLight
 - Misc -> Boot -> PickerAtributes: 17
 
 
 ### Setup Flavours theme in config.plist (Flavours-Collor themes as exemple
-
 - Misc -> Boot -> PickerVariant: chris1111\Flavours-Collor
 - Misc -> Boot -> PickerAtributes: 145
 
 
 
 ## Some examples of themes ⬇︎
-
-
 
 - FlatMonterey
 <img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/FlatMonterey.png">
